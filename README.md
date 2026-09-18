@@ -20,16 +20,25 @@ A repository of competitive programming problem solutions and daily learning pra
   - `120.c` — Codeforces 339A (Helpful Maths)
   - `121.c` — Codeforces 281A (Word Capitalization)
 
+- **`CPP/`**: Direct C++ equivalents using STL for competitive programming comparison and practice.
+  - `111.cpp` – `121.cpp` corresponding to each problem above.
+  - `cp.cpp` — Recursion & backtracking notes.
+
 ## 🛠️ Tech & Tools
 
-- **Language:** C (C99 standard)
+- **Languages:** C (C99) & C++ (C++17)
 - **Compiler:** GCC / Clang
 - **Platform:** macOS / Linux
-- **Focus:** Building core programming logic, basic data manipulation, string parsing, and understanding memory directly through daily problem solving.
+- **Focus:** Transitioning from manual C memory management to C++ STL (vector, set, string, sort) for competitive programming and university coursework.
 
 ## Compiling & Running
 
 ```bash
+# Compile C
 gcc -O2 -std=c99 CC/111.c -o CC/111.out
 ./CC/111.out
+
+# Compile C++
+g++ -O2 -std=c++17 CPP/111.cpp -o CPP/111.out
+./CPP/111.out
 ```
