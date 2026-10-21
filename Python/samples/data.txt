@@ -1,0 +1,10 @@
+Hello World!
+I am doing odd jobs in Python.
+It is a beautiful day.
+
+Hello
+World
+Python
+is
+awesome
+Whatsup?
